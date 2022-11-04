@@ -140,7 +140,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Slack"
-      icon: "fab fa-fw fa-slack-square"
+      icon: "fab fa-fw fa-slack"
       url: "https://slack.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
