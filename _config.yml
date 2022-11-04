@@ -82,6 +82,8 @@ baidu_site_verification  :
 # Social Sharing
 twitter:
   username               :
+slack:
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -107,8 +109,8 @@ author:
   name             : "TerrTarr1"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **a.m.a.z.i.n.g** person."
-  location         : "Somewhere"
-  email            : 
+  location         : "Seoul, Korea of Republic"
+  email            : "kimdokyun3615@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -119,6 +121,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
+    - label: "Slack"
+      icon: "fab fa-fw fa-slack-square"
+      # url: "https://slack.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -134,6 +139,9 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
+      # url:
+    - label: "Slack"
+      icon: "fab fa-fw fa-slack-square"
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
