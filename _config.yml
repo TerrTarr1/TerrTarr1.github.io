@@ -80,8 +80,6 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-github:
-  username               : TerrTarr1
 twitter:
   username               :
 slack:
@@ -93,13 +91,8 @@ facebook:
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 social:
-  name: terrtarr1
-  email: kimdokyun3615@gmail.com
-  links:
-    - https://github.com/wlqmffl0102
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~    
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
