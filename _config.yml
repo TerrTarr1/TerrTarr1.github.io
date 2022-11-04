@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Novice Developer"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "terrtarr1"
+name                     : "Your Name"
 description              : "An **a.m.a.z.i.n.g** website."
 url                      : "https://blogtest0.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "terrtarr1"
+  name             : "TerrTarr1"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **a.m.a.z.i.n.g** person."
-  location         : "Seoul"
-  email            : "kimdokyun3615@gmail.com"
+  location         : "Somewhere"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
