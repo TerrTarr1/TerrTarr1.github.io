@@ -121,7 +121,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Slack"
-      icon: "fab fa-fw fa-slack-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: "https://slack.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -299,4 +299,16 @@ defaults:
       share: true
       related: true
       
+      
+# _pages. # 이건 devinlife 보고 붙여넣기 한거
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: false      
 
