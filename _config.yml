@@ -18,7 +18,7 @@ title                    : "Novice Developer"
 title_separator          : "-"
 subtitle                 : "Level : developer 0" # site tagline that appears below site title in masthead
 name                     : "TerrTarr1"
-description              : "An anmazing website."
+description              : "An an a.m.a.z.i.n.g website."
 url                      : "https://terrtarr1.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "TerrTarr1/TerrTarr1.github.io" # "mmistakes/minimal-mistakes"
@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "TerrTarr1"
   avatar           : "/assets/image/ukki.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **a.m.a.z.i.n.g** person."
+  bio              : ""tyring"" Level up achieved.
   location         : "Seoul, Korea of Republic"
   email            : 
   links:
