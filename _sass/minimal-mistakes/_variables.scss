@@ -156,8 +156,13 @@ $max-width: $x-large !default;
    ========================================================================== */
 
 $right-sidebar-width-narrow: 200px !default;
-$right-sidebar-width: 300px !default;
-$right-sidebar-width-wide: 400px !default;
+$right-sidebar-width: 270px !default;
+$right-sidebar-width-wide: 350px !default;
+
+// $right-sidebar-width-narrow: 200px !default;
+// $right-sidebar-width: 300px !default;
+// $right-sidebar-width-wide: 400px !default;
+// 바로 위의 코드는 원래 코드인데 사이드여백이 많아서 수정.
 
 /*
    Other
