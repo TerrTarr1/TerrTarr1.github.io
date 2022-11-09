@@ -107,8 +107,10 @@ analytics:
 author:
   name             : "TerrTarr1"
   avatar           : "/assets/image/ukki.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "system : Level experience increased.    
-   The remaining experience is **99%**."
+  bio              : "system : Level experience increased.
+  
+  
+  The remaining experience is **99%**."
   location         : "Seoul, Korea of Republic"
   email            : 
   links:
