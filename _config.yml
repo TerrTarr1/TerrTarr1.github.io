@@ -298,7 +298,15 @@ defaults:
       comments: true
       share: true
       related: true
-      
+#==============================================================여기부터 수정한것.
+$right-sidebar-width-narrow: 200px !default;
+$right-sidebar-width: 270px !default;
+$right-sidebar-width-wide: 350px !default;
+
+// $right-sidebar-width-narrow: 200px !default;
+// $right-sidebar-width: 300px !default;
+// $right-sidebar-width-wide: 400px !default;
+//위에는 원래 코드 - 사이드 여백 너무 많아서 수정
       
 # _pages. # 이건 devinlife 보고 붙여넣기 한거
   - scope:
