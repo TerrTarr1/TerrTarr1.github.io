@@ -26,7 +26,7 @@ en: &DEFAULT_EN
   comments_label             : "Leave a comment"
   comments_title             : "Comments"
   more_label                 : "Learn more"
-  related_label              : "You may also enjoy"
+  related_label              : "Experience points to level up"
   follow_label               : "Follow:"
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
@@ -47,7 +47,6 @@ en: &DEFAULT_EN
   loading_label              : "Loading..."
   search_label_text          : "Enter your search term..."
   search_placeholder_text    : "Enter your search term..."
-  search_algolia_no_results  : "No results"
   results_found              : "Result(s) found"
   back_to_top                : "Back to top"
 en-US:
@@ -106,7 +105,6 @@ es: &DEFAULT_ES
   loading_label              : "Cargando..."
   search_label_text          : "Términos de búsqueda..."
   search_placeholder_text    : "Términos de búsqueda..."
-  search_algolia_no_results  :
   results_found              : "resultado(s) encontrado(s)"
   back_to_top                : "Volver arriba"
 es-ES:
