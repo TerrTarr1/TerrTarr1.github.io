@@ -29,6 +29,9 @@
     {% else %}
       <p class="archive__item-excerpt"><i class="far fa-calendar-alt"></i> {{ post.date | date: "%m/%d/%Y" }}
     {% endif %}
+    {% if post.tags[0] != null %}
+		  <p class="archive__item-excerpt"><i class="far fa-tags"></i> {{ post.tags }} </p>
+	  {% endif %}
     {% if post.read_time %}
       <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
